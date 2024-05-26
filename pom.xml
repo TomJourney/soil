@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.tom.soil</groupId>
-    <artifactId>base</artifactId>
+    <artifactId>soil-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>soil</name>
+    <name>soil-parent</name>
     <url>http://maven.apache.org</url>
     <modules>
         <module>soil-core</module>
